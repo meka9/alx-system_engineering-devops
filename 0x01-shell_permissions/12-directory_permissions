@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir dir_holberton -m=751
+mkdir dir_0x01-shell_permissions -m=751
